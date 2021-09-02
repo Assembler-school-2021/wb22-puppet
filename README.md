@@ -1,0 +1,1 @@
+# wb22-puppet
